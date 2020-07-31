@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b1fe42fb-dddf-45d1-8dc2-f9a5011818f0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Jeremy/Scripts/UIScrollMenu.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/StepCounterTest.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ThirdPartyAssets/WoLfulus/LineEnding/Editor/LogEntry.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/db.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Danial/Scripts/Recommend.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/UnityARKitPlugin/Plugins/iOS/UnityARKit/NativeInterface/UnityARSessionNativeInterface.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Jeremy/Models/Field Objects/CusTimer.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/FireInit.cs" />
+        <option value="$PROJECT_DIR$/StepCounterTest.cs" />
+        <option value="$PROJECT_DIR$/runDb.cs" />
+        <option value="$PROJECT_DIR$/dbScript.cs" />
+        <option value="$PROJECT_DIR$/Danial/Scripts/Recommend.cs" />
+        <option value="$PROJECT_DIR$/loading.cs" />
+        <option value="$PROJECT_DIR$/db.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Yovbs3X5wcyUHly3RT9DTBgY4F" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b1fe42fb-dddf-45d1-8dc2-f9a5011818f0" name="Default Changelist" comment="" />
+      <created>1583621836268</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583621836268</updated>
+      <workItem from="1583621840256" duration="7000" />
+      <workItem from="1583623479224" duration="5870000" />
+      <workItem from="1583718326376" duration="14996000" />
+      <workItem from="1584418807935" duration="726000" />
+      <workItem from="1584419644846" duration="2602000" />
+      <workItem from="1584469059604" duration="720000" />
+      <workItem from="1584472929659" duration="32455000" />
+      <workItem from="1584562134121" duration="3790000" />
+      <workItem from="1584576711976" duration="9843000" />
+      <workItem from="1596166304269" duration="603000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="WindowStateProjectService">
+    <state x="1583" y="320" width="672" height="678" key="search.everywhere.popup" timestamp="1584481811815">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1583" y="320" width="672" height="678" key="search.everywhere.popup/0.0.2560.1400/2560.0.1920.1040@0.0.2560.1400" timestamp="1584481811815" />
+  </component>
+</project>
